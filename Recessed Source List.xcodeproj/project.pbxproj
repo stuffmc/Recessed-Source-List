@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C12485716593CEB000B1860 /* SourceListBackground.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 4C12485616593CEB000B1860 /* SourceListBackground.tiff */; };
 		9DFE281813D9B5C200BAED67 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DFE281713D9B5C200BAED67 /* Cocoa.framework */; };
 		9DFE282213D9B5C200BAED67 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9DFE282013D9B5C200BAED67 /* InfoPlist.strings */; };
 		9DFE282413D9B5C200BAED67 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DFE282313D9B5C200BAED67 /* main.m */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4C12485616593CEB000B1860 /* SourceListBackground.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = SourceListBackground.tiff; sourceTree = "<group>"; };
 		9DFE281313D9B5C200BAED67 /* Recessed Source List.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Recessed Source List.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DFE281713D9B5C200BAED67 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		9DFE281A13D9B5C200BAED67 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -97,6 +99,7 @@
 				9DFE282913D9B5C200BAED67 /* Recessed_Source_ListAppDelegate.h */,
 				9DFE282A13D9B5C200BAED67 /* Recessed_Source_ListAppDelegate.m */,
 				9DFE282C13D9B5C200BAED67 /* MainMenu.xib */,
+				4C12485616593CEB000B1860 /* SourceListBackground.tiff */,
 				9DFE281E13D9B5C200BAED67 /* Supporting Files */,
 			);
 			name = "Demo App";
@@ -182,6 +185,7 @@
 				9DFE282213D9B5C200BAED67 /* InfoPlist.strings in Resources */,
 				9DFE282813D9B5C200BAED67 /* Credits.rtf in Resources */,
 				9DFE282E13D9B5C200BAED67 /* MainMenu.xib in Resources */,
+				4C12485716593CEB000B1860 /* SourceListBackground.tiff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

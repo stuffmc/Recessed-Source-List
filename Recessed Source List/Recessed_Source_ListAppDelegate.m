@@ -94,7 +94,9 @@
 	
 	// Kick the table view
 	[tableView reloadData];
-	
+    
+    NSColor *patternColor = [NSColor colorWithPatternImage:[NSImage imageNamed:@"SourceListBackground.tiff"]];
+    tableView.backgroundColor = patternColor;
 }
 
 
